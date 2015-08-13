@@ -1,6 +1,8 @@
 // array of Monitor-specific API keys or Main API key to list all monitors
 var __apiKeys = [
-	'm176319-d0f704bfbda0046a3ed0785c',
+	'm777023321-0b0a6086884a01071e01e6a0',
+	'm777023320-55d310686ac2f54cf34ddd76',
+	'm777023323-e0d63ab5a09b5288493c078e',
 ];
 
 // refresh interval (in seconds)
